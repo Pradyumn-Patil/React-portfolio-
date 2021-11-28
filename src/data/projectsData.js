@@ -11,30 +11,30 @@ import eight from '../assets/svg/projects/eight.svg'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Employee Management',
-        projectDesc: 'This project aims to build an employee management system that consolidates all information of a company',
-        tags: ['React', 'CSS', 'Material Ui'],
+        projectName: 'Video Content Classification ',
+        projectDesc: 'This project aims to create model to classify video content into catergories using a model trained using CNN and LSTM  ',
+        tags: ['Python', 'Tensorflow', 'OpenCV'],
         code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         image: one
     },
     {
         id: 2,
-        projectName: 'Railway Tracking',
+        projectName: 'Document Verification Using OCR',
         projectDesc: 'This project is a railway tracking system that allows users to obtain relevant information about train timing.',
-        tags: ['Django', 'Tailwind CSS'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        tags: ['Python' , 'OpenCV'],
+        code: 'https://github.com/Pradyumn-Patil/Document-Verification-Using-OCR-and-Semantic-Analysis',
+        demo: 'work in progress',
         image: two
     },
     {
         id: 3,
-        projectName: 'Weather App',
-        projectDesc: 'Weather forecast systems and applications predict weather conditions based on multiple parameters.',
-        tags: ['Django', 'CSS', 'Material Ui'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: three
+        projectName: 'Banking software for Co-Operative Elderly homes',
+        projectDesc: 'Basic Banking Software with uncomplicated function to avoid cluttering and secure database to balance ease of use and functionality ',
+        tags: ['Java','Swing', 'MySQl'],
+        code: 'https://github.com/Pradyumn-Patil/Banking-Sofotware-for-Co-operative-Society',
+        demo: 'https://github.com/Pradyumn-Patil/Banking-Sofotware-for-Co-operative-Society',
+        image: five 
     },
     {
         id: 4,
