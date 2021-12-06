@@ -14,8 +14,8 @@ export const projectsData = [
         projectName: 'Video Content Classification ',
         projectDesc: 'This project aims to create model to classify video content into catergories using a model trained using CNN and LSTM  ',
         tags: ['Python', 'Tensorflow', 'OpenCV'],
-        code: 'https://github.com/Pradyumn-Patil/Video-Content-Classification-Using-Deep-learning-',
-        demo: 'https://github.com/Pradyumn-Patil/Video-Content-Classification-Using-Deep-learning-',
+        code: 'https://github.com/Pradyumn-Patil/Video-content-classification-using-CNN-LSTM',
+        demo: 'https://github.com/Pradyumn-Patil/Video-content-classification-using-CNN-LSTM',
         image: one
     },
     {

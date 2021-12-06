@@ -11,7 +11,7 @@ import boy3 from '../assets/svg/testimonials/boy3.svg'
 export const testimonialsData = [
     {
         id: 1,
-        name: 'nil',
+        name: 'soon to be added ',
         title: '',
         text: "",
         image: boy2
